@@ -1,4 +1,4 @@
-# Template-Wordpress
+# Template Wordpress
 
 How to Create A Template Wordpress ?
 
