@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+html,
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.menu-top{
+	overflow: hidden;
+	padding: 15px 25px;
+	background-color: #16a085;
+	color: #fff;
+}
+
+.menu-top h1{
+	float: left;
+	margin: 0;
+}
+
+.menu-menu-container{
+	float: right;
+}
+
+#menu-menu{
+	list-style: none;
+	margin: 7px;
+}
+
+#menu-menu li{
+	float: left;
+}
+
+#menu-menu li a{
+	padding: 15px;
+	text-decoration: none;
+	color: #fff;
+}
+
+#menu-menu li a:hover{
+	border-bottom: 1px solid #fff;
+}
+
+#menu-menu .page_item {
+	/*background-color: #fff;*/
+}
+
+.content{
+	margin: 0 10%;
+	overflow: hidden;
+}
+
+.text-content{
+	width: 75%;
+	float: left;
+}
+
+.widget-content{
+	width: 25%;
+	float: left;
+}
